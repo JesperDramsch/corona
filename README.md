@@ -1,0 +1,2 @@
+# corona
+Explorations in Epidemology
